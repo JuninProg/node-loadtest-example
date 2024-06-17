@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Rose",
+    "scientificName": "Rosa",
+    "family": "Rosaceae",
+    "origin": "Asia",
+    "sunlight": "Full Sun",
+    "water": "Medium",
+    "soil": "Loamy",
+    "bloomTime": "Spring to Fall",
+    "description": "A type of flowering shrub that comes in a variety of colors.",
+    "careInstructions": "Water regularly and provide full sun."
+  },
+  {
+    "name": "Sunflower",
+    "scientificName": "Helianthus annuus",
+    "family": "Asteraceae",
+    "origin": "North America",
+    "sunlight": "Full Sun",
+    "water": "Medium",
+    "soil": "Loamy",
+    "bloomTime": "Summer",
+    "description": "Tall plants with large yellow flowers that turn to face the sun.",
+    "careInstructions": "Water regularly and provide full sun."
+  },
+  {
+    "name": "Tulip",
+    "scientificName": "Tulipa",
+    "family": "Liliaceae",
+    "origin": "Central Asia",
+    "sunlight": "Full Sun",
+    "water": "Medium",
+    "soil": "Sandy",
+    "bloomTime": "Spring",
+    "description": "Spring-blooming perennials with showy flowers.",
+    "careInstructions": "Water regularly and provide well-drained soil."
+  },
+  {
+    "name": "Lavender",
+    "scientificName": "Lavandula",
+    "family": "Lamiaceae",
+    "origin": "Mediterranean",
+    "sunlight": "Full Sun",
+    "water": "Low",
+    "soil": "Sandy",
+    "bloomTime": "Summer",
+    "description": "Fragrant herb with purple flowers.",
+    "careInstructions": "Water sparingly and provide full sun."
+  },
+  {
+    "name": "Daffodil",
+    "scientificName": "Narcissus",
+    "family": "Amaryllidaceae",
+    "origin": "Europe, North Africa",
+    "sunlight": "Full Sun",
+    "water": "Medium",
+    "soil": "Loamy",
+    "bloomTime": "Spring",
+    "description": "Bulbous plants with bright yellow flowers.",
+    "careInstructions": "Water regularly and provide full sun or partial sun."
+  },
+  {
+    "name": "Orchid",
+    "scientificName": "Orchidaceae",
+    "family": "Orchidaceae",
+    "origin": "Worldwide",
+    "sunlight": "Partial Sun",
+    "water": "Medium",
+    "soil": "Well-draining",
+    "bloomTime": "Varies",
+    "description": "Diverse and widespread family of flowering plants.",
+    "careInstructions": "Provide indirect sunlight and water moderately."
+  },
+  {
+    "name": "Bamboo",
+    "scientificName": "Bambusoideae",
+    "family": "Poaceae",
+    "origin": "Asia",
+    "sunlight": "Full Sun",
+    "water": "Medium",
+    "soil": "Loamy",
+    "bloomTime": "Varies",
+    "description": "Fast-growing grass with a woody stem.",
+    "careInstructions": "Water regularly and provide full sun or partial sun."
+  },
+  {
+    "name": "Cactus",
+    "scientificName": "Cactaceae",
+    "family": "Cactaceae",
+    "origin": "Americas",
+    "sunlight": "Full Sun",
+    "water": "Low",
+    "soil": "Sandy",
+    "bloomTime": "Varies",
+    "description": "Succulent plants adapted to arid conditions.",
+    "careInstructions": "Provide full sun and water sparingly."
+  },
+  {
+    "name": "Fern",
+    "scientificName": "Pteridophyta",
+    "family": "Polypodiopsida",
+    "origin": "Worldwide",
+    "sunlight": "Shade",
+    "water": "Medium",
+    "soil": "Well-draining",
+    "bloomTime": "N/A",
+    "description": "Non-flowering plants with feathery fronds.",
+    "careInstructions": "Provide indirect sunlight and keep soil moist."
+  },
+  {
+    "name": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "family": "Asphodelaceae",
+    "origin": "Arabian Peninsula",
+    "sunlight": "Full Sun",
+    "water": "Low",
+    "soil": "Sandy",
+    "bloomTime": "Summer",
+    "description": "Succulent plant known for its medicinal properties.",
+    "careInstructions": "Provide full sun and water sparingly."
+  }
+]
